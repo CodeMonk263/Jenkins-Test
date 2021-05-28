@@ -1,6 +1,6 @@
 print("Welcome")
 
-k = "This string is going to be reversed
+k = "This string is going to be reversed"
 
 print(k)
 
